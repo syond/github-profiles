@@ -1,0 +1,23 @@
+* {
+  outline:0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100vh;
+
+  overflow-x: hidden
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body, input, button, textarea{
+  font: 400 18px Poppins, sans-serif;
+}
