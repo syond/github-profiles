@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 export default function Routes() {
   return (
     <BrowserRouter>
-      <Route path={"/"} component={Home}></Route>
+      <Route path={"/"} component={Home} exact></Route>
     </BrowserRouter>
   );
 }

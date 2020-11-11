@@ -96,8 +96,6 @@ export default function Home() {
                   <div className="avatar">
                     <motion.img
                       animate={{ scale: 0.7 }}
-                      drag="x"
-                      dragConstraints={{ left: -100, right: 100 }}
                       whileHover={{ scale: 1.1 }}
                       whileTap={{ scale: 0.9 }}
                       alt="avatar"
@@ -190,7 +188,7 @@ export default function Home() {
         <footer>
           Developed by{" "}
           <a target="_blank" rel="noreferrer" href="https://github.com/syond">
-            Syond Santos
+            <strong>Syond Santos</strong>
           </a>
         </footer>
       </div>
