@@ -9,7 +9,7 @@
 * [Contact](#email-contact)
 
 # :eyes: Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/860933e2-f126-4694-ae7a-8c05ef9e2512/deploy-status)](https://app.netlify.com/sites/findagitter/deploys) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/860933e2-f126-4694-ae7a-8c05ef9e2512/deploy-status)](https://findagitter.netlify.app) 
 
 # :coffee: About
 In this application the user can search for informations about any Github user, like: username; followers number; location; email; repositories; and more...
